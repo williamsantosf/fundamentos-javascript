@@ -29,7 +29,7 @@ eles vão se comportar como verdadeiro.
 */
 
 console.log(!!3)
-console.log(!!-1)
+console.log(!!-1) //todo número inteiro é verdadeiro.
 console.log(' ') //espaço é diferente de string vazia
 console.log(!![]) //array vazio é verdadeiro
 console.log(!!{}) //objeto literal é verdadeiro
