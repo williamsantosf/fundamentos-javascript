@@ -27,6 +27,12 @@ imprimir2('William')
 
 /////////////////////////////////////////////////////////////
 
+/*
+Exemplo: criando a função que calcula o consumo de oleo diesel
+devido para um implemento existente em carretas que transportam
+produto quente, como CAP.
+*/
+
 const consumoMacarico = function(horaIni,horaFin){
     return (horaFin - horaIni) * 16
 }
