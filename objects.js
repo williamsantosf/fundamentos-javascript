@@ -18,6 +18,8 @@ console.log(prod2)
 
 /////////////////////////////////////////
 
+//Exemplo de criação de objetos que representem frotas de uma empresa de transportes.
+
 const frota1 = {}
 frota1.placa = 'RPD-1F94'
 frota1.id = '243'
